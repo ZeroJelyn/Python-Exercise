@@ -1,0 +1,8 @@
+#asking user name
+my_name= input("What is your name is?")
+print("hi, there "+ my_name)
+
+#asking user temperature
+temperature_kelvin=float(input("Enter Kelvinperature in Kelvin:"))
+temperature_Celsius=temperature_kelvin + 273.15
+print("hi, there "+ my_name "the temp is " + str(my_temp) + "which is in kelvin " + str(kelvin) )",(temperature_Celsius)
